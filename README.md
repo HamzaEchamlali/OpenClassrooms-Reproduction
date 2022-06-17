@@ -1,4 +1,4 @@
-# OpenClassrooms Reproduction V.1.0
+# [Reproduction] OpenClassrooms V.1.0
 
 [ Description ]
 - Reproduction of the front-end home page from OpenClassrooms
